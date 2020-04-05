@@ -44,4 +44,4 @@ Start the script:
 ```sh
 pytest test_amazonFresh.py
 ```
-The script will keep running until you stopped it. For the default settings, it will check every 1~5 mins. For each check, it will switch dates every 1~5 seconds. When there are time slots show up in the reserve page (regardless of whether they are grey or not), the script will create the email alerts and stopped at the page with the time slots.
+The script will keep running until you stopped it. For the default settings, it will check every 1-5 mins. For each check, it will switch dates every 1-5 seconds. When there are time slots show up in the reserve page (regardless of whether they are grey or not), the script will create the email alerts and stopped at the page with the time slots.
